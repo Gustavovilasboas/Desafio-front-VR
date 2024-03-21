@@ -1,0 +1,17 @@
+{
+  "name": "teste_cypress_gustavo",
+  "version": "1.0.0",
+  "description": "Teste Totvs",
+  "main": "src/index.html",
+  "scripts": {
+    "cy:open": "cypress open",
+    "test": "cypress run"
+  },
+  "keywords": [
+    "Testing",
+    "Cypress.io"
+  ],
+  "devDependencies": {
+    "cypress": "^9.5.1"
+  }
+}
